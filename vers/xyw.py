@@ -1,4 +1,4 @@
-with open("count-x-y-w.txt","r") as file:
+with open("vers/count-x-y-w.txt","r") as file:
     lista = []
     x = 0
     y = 0
