@@ -13,5 +13,6 @@ with open("vers/count-x-y-w.txt","r") as file:
         elif i == "W":
             w += 1
 
-eredmeny = x+y-w            
+eredmeny = x+y-w  
+          
 print(eredmeny)
