@@ -38,4 +38,7 @@ with open("vers/caesar.txt","r",encoding="utf-8") as file:
             eltolt = cnabc.index(elem) 
             vers.append(nabc[eltolt])
         
-#print(*vers,sep= "")
+vers_szoveg = ''.join(vers)
+
+with open("vers/vers_szoveg.txt","w",encoding="utf-8") as iro:
+    iro.write(vers_szoveg)
