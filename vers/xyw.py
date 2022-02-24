@@ -1,11 +1,9 @@
 with open("vers/count-x-y-w.txt","r") as file:
-    lista = []
+    betuk = file.read()
     x = 0
     y = 0
     w = 0
-    for i in file:
-        lista = file.read()
-    for i in lista:
+    for i in betuk:
         if i == "X":
             x += 1
         elif i == "Y":
@@ -13,6 +11,4 @@ with open("vers/count-x-y-w.txt","r") as file:
         elif i == "W":
             w += 1
 
-eredmeny = x+y-w  
-          
-print(eredmeny)
+xyw_eredm = x+y-w       
