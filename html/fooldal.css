@@ -1,0 +1,41 @@
+header{
+    text-align: center;
+    margin: auto;
+    background-color: #cccccc;
+    font-family: Arial;
+    color: #333333;
+    border-bottom: 2px solid #333333;
+}
+
+main{
+    width: 800px;
+    margin: auto;
+    font-family: Arial;
+    color: #333333;
+}
+
+li{
+    list-style-type: none;
+    float: left;
+}
+
+h3{
+    text-align: left;
+}
+
+pre{
+    text-align: justify;
+    margin: auto;
+}
+
+img{
+    width: 200px;
+}
+
+div{
+    border: 2px solid #333333;
+    border-radius: 10px;
+    background-color: #3cb878;
+    color: white;
+    margin: 15px;
+}
