@@ -43,5 +43,16 @@ div{
 li{
     padding-left: 60px;
     margin: 40px;
-    border-left: 2px solid;
+    border-left: 2px solid black;
+    color: #3cb878;;
+    
 }
+a{
+    color: #3cb878;
+}
+a:link, a:active, a:visited, a:hover{
+    color: #3cb878;
+    
+}
+
+
