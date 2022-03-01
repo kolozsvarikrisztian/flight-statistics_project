@@ -39,3 +39,9 @@ div{
     color: white;
     margin: 15px;
 }
+
+li{
+    padding-left: 60px;
+    margin: 40px;
+    border-left: 2px solid;
+}
