@@ -1,4 +1,4 @@
-# Statisztika-projekt
+# Statisztika című projekt
 
 ### A Statisztika c. projekt résztvevői:
  - Kása Patrik
