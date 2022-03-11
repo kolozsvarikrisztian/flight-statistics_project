@@ -1,4 +1,4 @@
-# Statisztika című projekt
+# Statisztika című projekt / Repülős projekt
 
 ### A Statisztika c. projekt résztvevői:
  - Kása Patrik
