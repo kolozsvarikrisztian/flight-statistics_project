@@ -1,0 +1,51 @@
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h2 {    
+    text-align: center;
+}
+h4 {
+    text-decoration: underline;
+}
+h6 {
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 8px;
+}
+
+
+.adat {
+    padding-top:35px;
+}
+
+.tanul > p {
+    text-align: center;
+}
+
+
+@media screen  and (min-width: 576px){
+    .elv {
+        border-right: 2px solid black;
+    }
+}
+@media screen  and (max-width: 576px){
+    .elv {
+        border-bottom: 0px;
+    }
+    h4 {
+        margin-top: 30px;
+    }
+    .koz {
+        padding-top: 0px!important;
+    }
+    #szemelyes > .row > .elv > p{
+        padding-top: 20px!important;
+        font-weight: bold;
+    }
+}
