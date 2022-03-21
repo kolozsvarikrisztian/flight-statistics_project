@@ -1,0 +1,24 @@
+#repter > #cup > img {
+    width: 30px;
+}
+
+div > p {
+    font-weight: bold;
+    margin: 10px 0 0 0;
+}
+
+div > span {
+    margin-left: 20px;
+}
+
+.row > div {
+    display: inline-grid;
+    margin: 15px;
+    border: 1px solid black;
+}
+
+.n-m {
+    margin: 0px;
+
+}
+

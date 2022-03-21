@@ -1,0 +1,12 @@
+ul{
+    margin-left: 10px;
+}
+
+li{
+    font-size: 25px; 
+}
+
+ul li::before {
+   color: black!important;
+}
+

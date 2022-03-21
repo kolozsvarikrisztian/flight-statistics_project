@@ -1,0 +1,46 @@
+header{
+    text-align: center;
+    margin: auto;
+    background-color: #cccccc;
+    font-family: Arial;
+    color: #333333;
+    border-bottom: 2px solid #333333;
+}
+
+main{
+    width: 800px;
+    margin: auto;
+    font-family: Arial;
+    color: #333333;
+}
+
+a{
+    color: #3cb878;
+}
+
+a:link, a:active, a:visited, a:hover{
+    color: #3cb878;
+}  
+
+h3 {
+    font-weight: bold;
+}
+
+#logo {
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+#adat {
+    margin-left:10px;
+}
+
+div > p {
+    font-weight: bold;
+    margin: 10px 0 0 0;
+}
+
+div > span {
+    margin-left: 20px;
+}
