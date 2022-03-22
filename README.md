@@ -13,3 +13,4 @@ A kódolást a Visual Studio Code program segítségével hajtjuk végre, amelyn
 #### Pillanatképek a feladatok készülése közben:
 
 Képek beszúrása hamarosan!!!
+![Készülés közben]()
