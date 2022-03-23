@@ -19,16 +19,20 @@ h5 {
 div > p {
     font-weight: bold;
     margin: 10px 0 0 0;
+    
 }
 
 div > span {
     margin-left: 20px;
+
 }
 
 .row > div {
     display: inline-grid;
     margin: 15px;
     border: 1px solid black;
+    text-align: left;
+    padding: 15px;
 }
 
 .n-m {

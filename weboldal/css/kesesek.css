@@ -29,6 +29,8 @@ div > span {
     display: inline-grid;
     margin: 15px;
     border: 1px solid black;
+    text-align: left;
+    padding: 15px;
 }
 
 .n-m {
