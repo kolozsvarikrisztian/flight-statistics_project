@@ -21,3 +21,7 @@ a{
 a:link, a:active, a:visited, a:hover{
     color: #3cb878;
 }  
+
+footer {
+    height:100px;
+}
