@@ -12,4 +12,18 @@ A kódolást a Visual Studio Code program segítségével hajtjuk végre, amelyn
 
 #### Pillanatképek a feladatok készülése közben:
 
-Képek beszúrása hamarosan!!!
+![Készülés közben](keszuleskozben/pillanatkep.png)
+
+![Készülés közben](keszuleskozben/repter.png)
+
+![Készülés közben](keszuleskozben/pillanatkep1.png)
+
+![Készülés közben](keszuleskozben/pillanatkep2.png)
+
+#### Trello tábla, ahol követjük a feladatokat:
+
+![Készülés közben](keszuleskozben/trellotabla.png)
+
+#### GitHub README.md szerkesztése:
+
+![Készülés közben](keszuleskozben/githubreadme.png)

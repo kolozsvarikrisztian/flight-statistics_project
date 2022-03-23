@@ -1,3 +1,13 @@
+header{
+    text-align: center;
+    margin: auto;
+    background-color: #cccccc;
+    font-family: Arial;
+    color: #333333;
+    border-bottom: 2px solid #333333;
+    margin-bottom: 20px;
+}
+
 body {
 
     font-family: 'Times New Roman', Times, serif;

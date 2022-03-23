@@ -1,0 +1,47 @@
+body{
+    background-color: #AFEEEE;
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    background-color: #2F4F4F;
+    margin: auto;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color: #2F4F4F;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 15px;
+    font-weight: bold;
+}
+
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+
+li{
+    float: left;
+    margin-right: 25px;
+}
+
+h3{
+    text-indent: 20px;
+}
+
+#final{
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
