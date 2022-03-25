@@ -1,9 +1,9 @@
 # Repülési statisztikák projekt
 
 ### A Statisztika c. projekt résztvevői:
- - Kása Patrik
- - Nagy Tibor
- - Kolozsvári Krisztián
+ - Kása **Patrik**
+ - Nagy **Tibor**
+ - Kolozsvári **Krisztián**
 
 A statisztika c. projekt egy repülőkről/repülőterekről szóló weboldal. A feladatot csoportmunkában oldjuk meg, minden résztvevőnek kiosztja a feladatokat a projektmenedzser, illetve a trello.com-on keresztül is fel vannak sorolva a csapattagoknak a feladatok.
 A feladatok nagy része HTML és CSS, és, hogy ezek a weboldalak megfelelően nézzenek ki, Python feladatokat kell megfejteni.
@@ -29,3 +29,4 @@ A kódolást a Visual Studio Code program segítségével hajtjuk végre, amelyn
 ![Készülés közben](keszuleskozben/githubreadme.png)
 
 A python feladatok megfejtése után elkezdtük a weboldalak kódolását. A közös csapatmunka és együttműködés hatására határidőn belül végeztünk a feladatokkal. A határidőket a projektmenedzser beállította a trello.com táblán keresztül, ahol az egész munkafolyamatot tudtuk követni.
+Az elkészült feladatok itt a GitHub-on keresztül érhetőek el.
