@@ -42,9 +42,9 @@ A kódolást a Visual Studio Code program segítségével hajtjuk végre, amelyn
 
 #### Pillanatképek a feladatok készülése közben:
 
-![Készülés közben](keszuleskozben/pillanatkep.png)
+![Készülés közben](keszuleskozben/elsokep.jpg)
 
-![Készülés közben](keszuleskozben/repter.png)
+![Készülés közben](keszuleskozben/masodikkep.jpg)
 
 ![Készülés közben](keszuleskozben/pillanatkep1.png)
 
