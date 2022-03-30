@@ -52,11 +52,11 @@ A kódolást a Visual Studio Code program segítségével hajtjuk végre, amelyn
 
 #### Trello tábla, ahol követjük a feladatokat:
 
-![Készülés közben](keszuleskozben/trellotabla.png)
+![Készülés közben](keszuleskozben/otodikkep.png)
 
 #### GitHub README.md szerkesztése:
 
-![Készülés közben](keszuleskozben/githubreadme.png)
+![Készülés közben](keszuleskozben/hatodikkep.png)
 
 A python feladatok megfejtése után elkezdtük a weboldalak kódolását. A közös csapatmunka és együttműködés hatására határidőn belül végeztünk a feladatokkal. A határidőket a projektmenedzser beállította a trello.com táblán keresztül, ahol az egész munkafolyamatot tudtuk követni.
 Az elkészült feladatok itt a GitHub-on keresztül érhetőek el.
