@@ -42,13 +42,13 @@ A kódolást a Visual Studio Code program segítségével hajtjuk végre, amelyn
 
 #### Pillanatképek a feladatok készülése közben:
 
-![Készülés közben](keszuleskozben/elsokep.jpg)
+![Készülés közben](keszuleskozben/elsokep.png)
 
-![Készülés közben](keszuleskozben/masodikkep.jpg)
+![Készülés közben](keszuleskozben/masodikkep.png)
 
-![Készülés közben](keszuleskozben/pillanatkep1.png)
+![Készülés közben](keszuleskozben/harmadikkep.png)
 
-![Készülés közben](keszuleskozben/pillanatkep2.png)
+![Készülés közben](keszuleskozben/negyedikkep.png)
 
 #### Trello tábla, ahol követjük a feladatokat:
 
