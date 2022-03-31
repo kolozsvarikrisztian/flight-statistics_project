@@ -50,7 +50,7 @@ A kódolást a Visual Studio Code program segítségével hajtjuk végre, amelyn
 
 ![Készülés közben](keszuleskozben/negyedikkep.png)
 
-#### Trello tábla, ahol követjük a feladatokat:
+#### Trello tábla, ahol követtük a feladatokat:
 
 ![Készülés közben](keszuleskozben/otodikkep.png)
 
